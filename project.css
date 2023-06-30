@@ -293,6 +293,7 @@
     display: flex;
     position: absolute;
     margin: 1200px -110px;
+    background-color: blue;
 }
 .name{
     display: flex;
@@ -312,6 +313,7 @@
     position: absolute;
     margin: 20px -150px;
     width: 300px;
+    
 
 }
 .reachus {
