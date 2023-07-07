@@ -292,8 +292,12 @@
 .footer{
     display: flex;
     position: absolute;
+    top: 800px;
     margin: 1200px -110px;
     background-color: blue;
+    background-color: blue;
+    width: 1570px;
+    height:300px;
 }
 .name{
     display: flex;
